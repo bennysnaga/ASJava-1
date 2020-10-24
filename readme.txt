@@ -1,0 +1,1 @@
+Program diatas adalah contoh dari beberapa kodingan.
